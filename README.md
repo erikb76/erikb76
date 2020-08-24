@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<p>
 <img src='https://github-readme-stats.vercel.app/api?username=erikb76&show_icons=true&hide=stars&count_private=true&card_width=418' alt='github' width='418'>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/1x1_placeholder.png" width="8px" alt=""/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=erikb76&hide=swift,php&layout=compact&card_width=418' alt='github' width='418'>
