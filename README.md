@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![erikb76's GitHub Stats][1]
+![Most Used Languages][2]
+
 <!--
 **erikb76/erikb76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[1]: https://github-readme-stats.vercel.app/api?username=erikb76&show_icons=true&hide=stars&count_private=true
+[2]: https://github-readme-stats.vercel.app/api/top-langs/?username=erikb76&hide=swift&layout=compact
